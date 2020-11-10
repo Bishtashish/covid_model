@@ -3,7 +3,7 @@
 Team Members
 
 Nandani Dabhi
-Akansha Chauhan
+Aakansha Chauhan
 Priyanka Jadhav
 Salma Khayum
 Ashish Bisht
