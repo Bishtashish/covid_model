@@ -14,6 +14,7 @@ Project Introduction
 Research Question
 
 Relevant Domain Information (links to three or more articles that relate to your research question)
+https://docs.google.com/spreadsheets/d/1dHd7ag2aRIibLRfSRO9SVCI2UWvWNvkZxzkvPdoXQc4/edit#gid=0
 
 Data Sources (this may be fluid)
 
