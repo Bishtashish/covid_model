@@ -46,6 +46,8 @@ https://github.com/CSSEGISandData/COVID-19
 
 https://libguides.stanford.edu/covid19
 
+https://www.bls.gov/data/
+
 ## Approach (how you plan to address the research question):
 
      Data understanding and EDA
