@@ -12,26 +12,16 @@ Salma Khayum
 
 Ashish Bisht
 
-
 ## Project Introduction
 
-COVID-19 is highly transmissible and can be spread by people who do not know they have the disease, risk of transmission within a community can be difficult to determine. Individuals need to follow healthy hygiene practices, stay at home when sick, practice physical distancing to lower the risk of disease spread, and use a cloth face covering (with some exceptions) in community settings when physical distancing cannot be maintained. These universal precautions are appropriate regardless of the extent of mitigation needed.
+COVID-19 has governments around the world operating in a context of radical uncertainty, and faced with difficult trade-offs given the health, economic and social challenges raised by the crisis. In less than three months at the beginning of 2020, the COVID-19 crisis developed into a global pandemic. Schools and universities were closed in Spring, 2020 for more than one billion students of all ages. By June 2020, the virus spread to almost all countries and affected more than eight million people around the world. More than half of the world’s population has experienced a lockdown with strong containment measures – the first time in history that such measures have been applied on such a large scale.
 
-The impact of Covid-19 in business outcomes and expectations: Due to Covid-19 a large number of mass-layoffs were done where more than 5800 small businesses were affected.  In the big picture, there are industries like Airlines, Leisure Facilities, Restaurants, Auto Parts and Equipment industries etc that  are most impacted by Covid-19. We’ll be analysing how the sectors that are most impacted by this pandemic are dealing with this situation, the risk of transmission, and what measures are being currently taken by them in order to handle the situation.
-
-
-
-
-
+Beyond the health and human tragedy of the coronavirus, it is now widely recognised that the pandemic triggered the most serious economic crisis in a century. All economic sectors are affected by disrupted global supply chains, weaker demand for imported goods and services, a drop in international tourism, or a decline in business travel, and most often a combination of these. Measures to contain the virus’ spread have hit SMEs and entrepreneurs particularly hard. Unemployment levels and the number of aid seekers have increased, sometimes dramatically. Many countries are now “exiting” virus containment measures, and moving to mitigate the impact of the economic crisis. With no treatment, vaccine or cure yet available (as of November 2020), many governments are adopting prudent strategies to limit the risk of second wave.
 
 ## Research Question
 
 To study and predict the transmission rate across diffrent factors including various community locations, types of businesses, types of events, geographical areas and its variations.
-
-# Predict low versus high transmission rate - How do various community locations, types of businesses, and types of events vary in terms of COVID-19 transmission risk?
-
-
-
+How COVID'19 has impacted different sectors such as business, education and health.
 
 ## Relevant Domain Information (links to three or more articles that relate to your research question)
 https://docs.google.com/spreadsheets/d/1dHd7ag2aRIibLRfSRO9SVCI2UWvWNvkZxzkvPdoXQc4/edit#gid=0
@@ -48,16 +38,37 @@ https://libguides.stanford.edu/covid19
 
 https://www.bls.gov/data/
 
+https://www.census.gov/data/tables/2020/demo/hhp/hhp16.html
+
 ## Approach (how you plan to address the research question):
+     
+      CRISP-DM //Cross-industry standard process for data mining 
 
-     Data understanding and EDA
+      Imputation/Replace with mean, random
+     
+      Data understanding and EDA
+     
+      Balancing of Data
 
-     Date Preparation
+      Date Preparation
+      
+      Data Visualization
+      
+      Observations
 
-      Machine Learning (if applicable - supervised, unsupervised)
+      Machine Learning (if applicable - supervised, unsupervised) //stretch goal
 
       Evaluation
-
+     
+               
 ## Known Issues (problems with predictors, reporting, bias, etc.) - this will develop over time
 
+     Lack of data standardization
+     
+     Bias in identification before proper testing
+
 ## Conclusion
+     
+     
+     
+     
