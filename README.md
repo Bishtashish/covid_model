@@ -36,17 +36,47 @@ https://www.pwc.com/sg/en/publications/a-resilient-tomorrow-covid-19-response-an
 
 ## Data Sources (this may be fluid)
 
-https://cloud.google.com/blog/products/data-analytics/free-public-datasets-for-covid19
+### Dataset Information:
 
-https://datascience.nih.gov/covid-19-open-access-resources
+Dataset used: **'Household Pulse Survey Data Tables for 2020'**
+Reference : https://www.census.gov/programs-surveys/household-pulse-survey/data.html
 
-https://github.com/CSSEGISandData/COVID-19
+We are doing Data analysis for **NC state**.
 
-https://libguides.stanford.edu/covid19
+Household pulse survey is designed to collect data on how people's lives have been impacted by COVID-19.
+Data was collected into 3 phases : 
+Phase 1 of the Household Pulse Survey began on April 23, 2020 and ended on July 21, 2020. It includes 12 weekly table releases.
+Phase 2 of the survey began on August 19, 2020 and ended October 26, 2020, and included 5 biweekly table releases.
+Phase 3 of the survey began on October 28, 2020, and the Census Bureau expects to collect data until December 21, 2020, releasing data every two weeks just like in Phase 2.
 
-https://www.bls.gov/data/
+In all the phases, data was collected on Education, Employment, Food Sufficiency and Food Security, Health, Housing, Peoples' spendings and transportation.
 
-https://www.census.gov/data/tables/2020/demo/hhp/hhp16.html
+**Phase 1 :** 
+- Week 1 	: April 23 - May 5
+- Week 2	: May 7 - May 12
+- Week 3	: May 14 - May 19
+- Week 4	: May 21 - May 26
+- Week 5	: May 28 - June 2
+- Week 6	: June 4 - June 9
+- Week 7	: June 11 - June 16
+- Week 8	: June 18 - June 23
+- Week 9	: June 25 - June 30
+- Week 10	: July 2 - July 7
+- Week 11	: July 9 - July 14
+- Week 12	: July 16 - July 21
+
+**Phase 2 :** 
+- Week 13	: August 19 - August 31
+- Week 14	: Sept 2 - Sept 14
+- Week 15	: Sept 16 - Sept 28
+- Week 16	: Sept 30 - Oct 12
+- Week 17	: Oct 14 - Oct 26
+
+**Phase 3 :** 
+- Week 18	: Oct 28 - Oct 9
+
+
+We are using consolidated data for all the phases to come up with our observations. 
 
 ## Approach (how you plan to address the research question):
 
