@@ -89,14 +89,16 @@ Data understanding – What data do we have / need? Is it clean?
 It starts with an initial data collection process and proceeds with activities in order to get familiar with the data, to identify data quality problems, to discover first insights into the data, or to detect interesting subsets to form hypotheses for hidden information.
 For data understanding we are planning to do Exploratory Data Analysis and Data visualization.
 
+
 We will focus on below measures:
-    Amount- Number of rows/columns
-    Data Types- Integers/Floats/Strings/Booleans/DateTime
-    Data Concept- Numerical(Continuous or Discrete)or Categorical value
-    Missing Data- Drop or Fill
-    Distribution- Range and Skew
-    Correlation- Target and Collinearity
-    Visualization- Generally Helpful Aid, Histograms and Scatterplots
+
+Machine Learning (Stretch Goal): 
+
+Modeling- In this step, Modeling techniques are selected and applied. Data preparation can have a loopback here as the models have specific techniques regarding the form of data presented.
+
+Evaluation- Once one or more models have been built that appear to have high quality based on whichever loss functions have been selected, these need to be tested in order to ensure that they generalize well against unseen data and that all key business issues have been sufficiently considered.
+
+Deployment- Generally this will mean deploying a code representation of the model into an operating system to score or categorize new unseen data as it arises and to create a mechanism for the use of that new information in the solution of the original business problem.
 
 Finally with the help of visualization techniques, we shall provide our observations.
 
