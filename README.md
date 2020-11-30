@@ -44,14 +44,14 @@ Reference : https://www.census.gov/programs-surveys/household-pulse-survey/data.
 We are doing Data analysis for **NC state**.
 
 Household pulse survey is designed to collect data on how people's lives have been impacted by COVID-19.
-Data was collected into 3 phases : 
+Data was collected into 3 phases :
 Phase 1 of the Household Pulse Survey began on April 23, 2020 and ended on July 21, 2020. It includes 12 weekly table releases.
 Phase 2 of the survey began on August 19, 2020 and ended October 26, 2020, and included 5 biweekly table releases.
 Phase 3 of the survey began on October 28, 2020, and the Census Bureau expects to collect data until December 21, 2020, releasing data every two weeks just like in Phase 2.
 
 In all the phases, data was collected on Education, Employment, Food Sufficiency and Food Security, Health, Housing, Peoples' spendings and transportation.
 
-**Phase 1 :** 
+**Phase 1 :**
 - Week 1 	: April 23 - May 5
 - Week 2	: May 7 - May 12
 - Week 3	: May 14 - May 19
@@ -65,24 +65,24 @@ In all the phases, data was collected on Education, Employment, Food Sufficiency
 - Week 11	: July 9 - July 14
 - Week 12	: July 16 - July 21
 
-**Phase 2 :** 
+**Phase 2 :**
 - Week 13	: August 19 - August 31
 - Week 14	: Sept 2 - Sept 14
 - Week 15	: Sept 16 - Sept 28
 - Week 16	: Sept 30 - Oct 12
 - Week 17	: Oct 14 - Oct 26
 
-**Phase 3 :** 
+**Phase 3 :**
 - Week 18	: Oct 28 - Oct 9
 
 
-We are using consolidated data for all the phases to come up with our observations. 
+We are using consolidated data for all the phases to come up with our observations.
 
 ## Approach (how you plan to address the research question):
 
 We plan to do Exploratory data analysis of datasets which gives information about impacts of COVID-19 on different sectors. For that we are going to use the CRISP-DM approach.The CRoss-Industry Standard Process for data mining (CRISP-DM) is a process model with six phases that naturally describes the data science life cycle. It’s like a set of guardrails to help you plan, organize, and implement your data science project. Currently we are planning to focus first two phases Business understanding and Data understanding. This will help us to measure the impacts.
 
-Business understanding – What does the business need? 
+Business understanding – What does the business need?
 It focuses on understanding the project objectives and requirements from a business perspective, and then this knowledge is converted into a data mining problem definition and a preliminary plan is presented. In order to get an idea about the impact of COVID-19 on various sectors we reviewed various COVID related articles and research papers.
 
 Data understanding – What data do we have / need? Is it clean?
@@ -92,7 +92,7 @@ For data understanding we are planning to do Exploratory Data Analysis and Data 
 
 We will focus on below measures:
 
-Machine Learning (Stretch Goal): 
+Machine Learning (Stretch Goal):
 
 Modeling- In this step, Modeling techniques are selected and applied. Data preparation can have a loopback here as the models have specific techniques regarding the form of data presented.
 
@@ -102,11 +102,19 @@ Deployment- Generally this will mean deploying a code representation of the mode
 
 Finally with the help of visualization techniques, we shall provide our observations.
 
+We have chosen 5 sectors to analyse the impact of Covid-19.
+1. Education
+2. Employment
+3. Spending
+4. Health
+5. Transportation
+
+
 ## Known Issues (problems with predictors, reporting, bias, etc.) - this will develop over time
 
 1. The most important known issue is finding appropriate data as impact of COVID-19 has a vast scope.
-2. Lack of data standardization is also an issue. Huge amount of is available but it is not present in standard form. 
+2. Lack of data standardization is also an issue. Huge amount of is available but it is not present in standard form.
 3. Bias in identification before proper testing
 
 ## Conclusion
-Many pandemics have occured in the past and can even occur in the future as well, so being prepared for such pandemics is always a good idea. We hope that the analysis done by us on the impact of COVID-19 will help people to be better prepared and equipped in case of employment, education or healthcare in future.
+Many pandemics have occurred in the past and can even occur in the future as well, so being prepared for such pandemics is always a good idea. We hope that the analysis done by us on the impact of COVID-19 will help people to be better prepared and equipped in case of employment, education or healthcare in future.
