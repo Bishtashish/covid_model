@@ -80,7 +80,7 @@ We are using consolidated data for all the phases to come up with our observatio
 
 ## Approach:
 
-We plan to do Exploratory data analysis of datasets which gives information about impacts of COVID-19 on different sectors. For that we are going to use the CRISP-DM approach.The Cross-Industry Standard Process for data mining (CRISP-DM) is a process model with six phases that naturally describes the data science life cycle. It’s like a set of guardrails to help you plan, organize, and implement your data science project. Currently we are planning to focus first two phases Business understanding and Data understanding. This will help us to measure the impacts.
+We plan to do Exploratory data analysis of datasets which gives information about impacts of COVID-19 on different sectors. For that we are going to use the CRISP-DM approach.The Cross-Industry Standard Process for data mining (CRISP-DM) is a process model with six phases that naturally describes the data science life cycle. It’s like a set of guardrails to help you plan, organize, and implement your data science project. Currently we are planning to focus on first two phases Business understanding and Data understanding. This will help us to measure the impacts.
 
 Business understanding – What does the business need?
 It focuses on understanding the project objectives and requirements from a business perspective, and then this knowledge is converted into a data mining problem definition and a preliminary plan is presented. In order to get an idea about the impact of COVID-19 on various sectors we reviewed various COVID related articles and research papers.
