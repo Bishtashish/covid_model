@@ -113,7 +113,7 @@ We have chosen 5 sectors to analyse the impact of Covid-19.
 ## Known Issues (problems with predictors, reporting, bias, etc.) - this will develop over time
 
 1. The most important known issue is finding appropriate data as impact of COVID-19 has a vast scope.
-2. Lack of data standardization is also an issue. Huge amount of is available but it is not present in standard form.
+2. Lack of data standardization is also an issue. Huge amount of data is available but it is not present in standard form.
 3. Bias in identification before proper testing
 
 ## Conclusion
