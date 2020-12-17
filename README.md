@@ -3,10 +3,10 @@
 
 ## Instructions to run the project
 
-⋅⋅* Take the clone of the repository in the local system.
+* Take the clone of the repository in the local system.
   	(Week wise Data is present in csv format in the respective folders.)
-⋅⋅* Go to the folder for the sector you want
-⋅⋅* Then run the jupyter notebook, you’ll be able to access the dataFrame.
+* Go to the folder for the sector you want
+* Then run the jupyter notebook, you’ll be able to access the dataFrame.
 
     ## Education sector :
     Education Folder - Impact_of_COVID_on_Education_sector.ipynb  [Dashboard](https://public.tableau.com/profile/ashish.bisht3877#!/vizhome/Education_16081543152430/Dashboard1)
