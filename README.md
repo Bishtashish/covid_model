@@ -30,9 +30,13 @@ The sectors that have seen the largest increases in unemployment are those that 
 
 ## Team Members:
 [Nandani Dabhi](https://www.linkedin.com/in/nandanidabhi/)
+
 [Aakanksha Chauhan](https://www.linkedin.com/in/aakanksha-chauhan-a3a52a55/)
+
 [Priyanka Jadhav](https://www.linkedin.com/in/priyanka-jadhav06/)
+
 [Salma Khayum](https://www.linkedin.com/in/salmaroohik/)
+
 [Ashish Bisht](https://www.linkedin.com/in/ashish-bisht-706892134/)
 
 ## Data Sources
