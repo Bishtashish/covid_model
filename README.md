@@ -1,4 +1,4 @@
-KDD-Project :
+#KDD-Project :
 Instructions to run the project
 
 Take the clone of the repository in the local system.
@@ -7,7 +7,7 @@ Go to the folder for the sector you want
 Then run the jupyter notebook, you’ll be able to access the dataFrame.
 
     Education sector :
-    Education Folder - Impact_of_COVID_on_Education_sector.ipynb Dashboard
+    Education Folder - Impact_of_COVID_on_Education_sector.ipynb [Dashboard](https://public.tableau.com/profile/ashish.bisht3877#!/vizhome/Education_16081543152430/Dashboard1)
 	    
     Employment sector :
     Employment Folder - Employment_NC.ipynb Dashboard
